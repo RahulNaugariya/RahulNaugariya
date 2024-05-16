@@ -17,10 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rahul naugariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul naugariya" height="30" width="40" /></a>
-<a href="https://kaggle.com/rahul naugariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rahul naugariya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rahuln2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahuln2001" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rahulnaugaria18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rahulnaugaria18" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-naugariya-5a9453200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-naugariya-5a9453200/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/rahuln292001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rahuln292001/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/rahulnaugaria18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/rahulnaugaria18/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
