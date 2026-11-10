@@ -1,32 +1,49 @@
-![MasterHead](https://raw.githubusercontent.com/prafful98/prafful98/master/banner.png)
 <h1 align="center">Hi 👋, I'm Rahul Naugariya</h1>
-<h3 align="center">A passionate machine learning ethusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
+<h3 align="center">Software Engineer | Backend & GenAI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulnaugariya&label=Profile%20views&color=0e75b6&style=flat" alt="rahulnaugariya" /> </p>
-
-- 🔭 I’m currently working on **Color detection using deep learning**
-
-- 🌱 I’m currently learning **deep learning, computer vision, algorithms**
-
-- 💬 Ask me about **Data structures, machine learning**
-
-- 📫 How to reach me **rahulnaugaria18&gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iM1qcj-PfsMX27iBRHq3S4OMlzBaBLHo/view?usp=drivesdk](https://drive.google.com/file/d/1iM1qcj-PfsMX27iBRHq3S4OMlzBaBLHo/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-naugariya-5a9453200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-naugariya-5a9453200/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rahuln292001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rahuln292001/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/rahulnaugaria18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/rahulnaugaria18/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/rahul-naugariya-5a9453200" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="38" /></a>
+  <a href="https://leetcode.com/u/rahulN292001/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="28" width="38" /></a>
+  <a href="https://codeforces.com/profile/rahulN29" target="_blank"><img src="https://img.shields.io/badge/Codeforces-rahulN29-1f8acb?logo=codeforces&logoColor=white" height="28" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- 💼 **Current Role:** Jr. Software Engineer at Cognizant, building secure REST endpoints and backend services in Java, Spring Boot, and Python.
+- 🧩 **Problem Solving:** Solved 1,000+ problems across platforms (880+ on LeetCode with 450+ Medium/Hard; peak contest rating 1,636).
+- 📫 **Contact:** rahulnaugaria18@gmail.com
+- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1ikovX4_6NXfVT-cM05SZjuumxF5xFmOB/view?usp=drive_link)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulnaugariya&show_icons=true&locale=en&layout=compact" alt="rahulnaugariya" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulnaugariya&show_icons=true&locale=en" alt="rahulnaugariya" /></p>
+### Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulnaugariya&" alt="rahulnaugariya" /></p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="38" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="38" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="38" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="38" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="38" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="38" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="38" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="38" height="38"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="38" height="38"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="38" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="38" height="38"/>
+</p>
+
+---
+
+### Featured Projects
+
+| Project | Highlights | Tech Stack |
+| :--- | :--- | :--- |
+| **[CodeGuard AI](https://github.com/RahulNaugariya/codeguard-ai)** | LLM-based code review tool detecting 10/10 seeded security vulnerabilities (SQLi, XSS, IDOR) with retry and model fallback handling. | FastAPI, Python, Gemini API, SQLAlchemy, Tailwind |
+| **[Perplexa](https://github.com/RahulNaugariya/Perplexa)** | RAG search assistant reducing hallucinations by 7% via FAISS retrieval and real-time web context, featuring multi-provider load balancing. | LangChain, FAISS, MongoDB, Streamlit, Pytest |
+
+---
+
+### Problem Solving & Milestones
+
+- **LeetCode:** 880+ solved (450+ Medium & Hard) | Peak Contest Rating: **1,636** (54+ contests attended)
+- **Competitive Platforms:** 1,000+ total problems solved across LeetCode, Codeforces, and GeeksforGeeks
+- **Academic:** Top 1,000 rank in KIITEE entrance examination (Merit Scholarship recipient)
