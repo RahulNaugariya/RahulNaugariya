@@ -10,7 +10,7 @@
 - 💼 **Current Role:** Jr. Software Engineer at Cognizant, building secure REST endpoints and backend services in Java, Spring Boot, and Python.
 - 🧩 **Problem Solving:** Solved 1,000+ problems across platforms (880+ on LeetCode with 450+ Medium/Hard; peak contest rating 1,636).
 - 📫 **Contact:** rahulnaugaria18@gmail.com
-- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1ikovX4_6NXfVT-cM05SZjuumxF5xFmOB/view?usp=drive_link)
+- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1LvG4QMOyEkJraG_IP_UjNyb278Hjqmr_/view?usp=sharing)
 
 ---
 
